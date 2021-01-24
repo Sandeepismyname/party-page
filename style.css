@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url('https://cdn.dribbble.com/users/5988/screenshots/7204277/media/6242aef436c5d84eaad53727c1dc1f0f.jpg');
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+}
+#color-overlay{
+    margin: 0;
+    padding: 0;
+    opacity: 0.8;
+    text-align: center;
+    color: brown;
+}
+#text-bg{
+    color: white;
+    line-height: 100vh;
+    font-size: 80px;
+    margin: 0;
+    
+}
+    
